@@ -1,4 +1,5 @@
-**House Price Prdeiction using machine learning
+## House Price Prdeiction using machine learning
+
 This project focuses on predicting house prices using machine learning techniques.
 The dataset includes features like house size, number of bedrooms, neighborhood quality, and lot size.
 Exploratory Data Analysis (EDA) is used to understand patterns and relationships in the data.
